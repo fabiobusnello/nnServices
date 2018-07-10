@@ -1,0 +1,8 @@
+.navbar-modules{
+    background-color: #006495;
+    color: white;
+}
+
+#module-container tr{
+    cursor: pointer;
+}
